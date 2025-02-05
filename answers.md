@@ -477,4 +477,4 @@ After which we just have to press Ctrl + X or F10 to boot.
 
 THIS IS WHERE THE LAB WORK ENDS, SO I WISH YOU SUCCESS IN LEARNING LINUX, DON'T FORGET TO ENJOY THE LITTLE THINGS AND REMEMBER THAT LOVE WILL HELP YOU OVERCOME ALL DIFFICULTIES!!!
 
-![Kali Linux](images/video.GIF)
+![Kali Linux](images/video.gif)
